@@ -1,0 +1,21 @@
+{
+  "item.lockylocks.iron_key": "Iron Key",
+  "item.lockylocks.iron_lock": "Iron Lock",
+  "item.lockylocks.copper_lock": "Copper Lock",
+
+
+  "creativetab.lockylocks.lockylocks_item": "LockyLocks Items",
+
+
+  "tooltip.lockylocks.iron_key": "Use to §eunlock§r a Lock",
+  "tooltip.lockylocks.iron_key.usage": "§aRight-Click on a locked container with this to unlock it",
+  "tooltip.lockylocks.iron_key.press": "Press §aShift§r to show usage",
+
+  "tooltip.lockylocks.iron_lock": "Use to §elock§r a Container",
+  "tooltip.lockylocks.iron_lock.usage": "§aSneak + Right-Click to lock a container",
+  "tooltip.lockylocks.iron_lock.press": "Press §aShift§r to show usage",
+
+  "tooltip.lockylocks.copper_lock": "Use to §elock§r a Container",
+  "tooltip.lockylocks.copper_lock.usage": "§aSneak + Right-Click to lock a container",
+  "tooltip.lockylocks.copper_lock.press": "Press §aShift§r to show usage"
+}

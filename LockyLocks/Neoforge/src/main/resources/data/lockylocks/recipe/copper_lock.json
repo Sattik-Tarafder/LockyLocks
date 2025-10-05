@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "NKN",
+    "OOO"
+  ],
+
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "K": {
+      "item": "lockylocks:iron_key"
+    },
+    "O": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+
+  "result": {
+    "count": 1,
+    "id": "lockylocks:copper_lock"
+  }
+}

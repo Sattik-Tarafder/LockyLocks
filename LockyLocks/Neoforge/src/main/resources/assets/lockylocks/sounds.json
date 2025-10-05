@@ -1,0 +1,21 @@
+{
+  "lock_use": {
+    "subtitle": "sounds.lockylocks.lock_use",
+    "sounds": [
+      {
+        "name": "lockylocks:lock_use",
+        "stream": false
+      }
+    ]
+  },
+
+  "key_use": {
+    "subtitle": "sounds.lockylocks.key_use",
+    "sounds": [
+      {
+        "name": "lockylocks:key_use",
+        "stream": false
+      }
+    ]
+  }
+}
